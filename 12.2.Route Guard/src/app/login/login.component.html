@@ -1,0 +1,24 @@
+<div id="login">
+<p>LOGIN </p>
+<!-- <input type="text" #u1 /><br>
+<input type="password" #p2 /><br/> -->
+
+<div class="form-group col-md-9">
+    
+    <input type="text" class="form-control" #u1  placeholder="Username">
+  </div>
+
+<div class="form-group col-md-9">
+    
+    <input type="password" class="form-control" #p2  placeholder="Password">
+  </div>
+
+
+
+<button class="btn btn-primary" (click)="check(u1.value, p2.value)">Login</button>
+<br/>
+<br/>
+<b>
+<span>{{ msg }}</span>
+</b>
+</div>

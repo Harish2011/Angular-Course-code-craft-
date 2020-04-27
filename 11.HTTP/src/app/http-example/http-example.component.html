@@ -1,0 +1,20 @@
+<h2>Employee List</h2>
+<div>
+<table class="table table-dark">
+	<thead>
+	  <tr>
+		<th scope="col">ID</th>
+		<th scope="col">NAME</th>
+		<th scope="col">AGE</th>
+	  </tr>
+	</thead>
+	<tbody *ngFor="let employee of employees">
+	  <tr>
+
+		<td>{{employee.id}}</td>
+		<td>{{employee.name}}</td>
+		<td>{{employee.age}}</td>
+	  </tr>
+	</tbody>
+  </table>
+</div>

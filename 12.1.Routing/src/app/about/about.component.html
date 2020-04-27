@@ -1,0 +1,56 @@
+<p>about works!</p>
+<h1>Routing Concepts</h1>
+<b>
+  <ol>
+     
+      <li>
+        <h3>redirectTo</h3>
+          path:'photo',
+          redirectTo:"gallery"
+      </li>
+      
+      <li>
+        <h3>Navigation</h3>
+        this.router.navigate(['about'])
+        <br> calling by funcation
+      </li>
+      
+      <li>
+        <h3>routerLinkActive</h3>
+        [routerLinkActive]="['active']"
+        <br>
+        It highlights the nav bar current name
+      </li>
+      <li>
+        <h3>Wrong Path</h3>
+        path:'**',
+        component:PageNotFoundComponent
+        <br>
+        we give any wrong path means it will navigate to selective component
+      </li>
+      <li>
+        <h3>Parameterised Routes</h3>
+        http://localhost:4200/departments/2
+        <br>
+        passing parameters in URL
+        
+      </li>
+      <li >
+        <h3>Nested Routes</h3>
+        
+         
+          children concepts 
+         
+        
+        <br>
+      calling route withe a route 
+        
+      </li>
+
+
+
+
+     
+  </ol>
+</b>
+<router-outlet></router-outlet>

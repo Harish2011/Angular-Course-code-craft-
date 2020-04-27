@@ -1,0 +1,9 @@
+<h3>Department List </h3>
+<div  class="items">
+
+    
+<div *ngFor="let dp of departments">
+   <button (click)="onselect(dp)" class="btn btn-primary"> <span class="badge">{{dp.id}}</span>{{dp.name}}</button>
+</div>
+
+</div> 

@@ -1,0 +1,279 @@
+[
+    {
+        "question":"Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?",
+        "op1":"toExponential()",
+        "op2":"toFixed()",
+        "op3":"toPrecision()",
+        "op4":"toLocalstring()",
+        "answer":"toFixed()",
+        "name":"question1"
+     }
+     ,
+     {
+         "question":"Which of the following function of String object returns a number indicating the Unicode value of the character at the given index?",
+         "op1":"charAt()",
+         "op2":"charCodeAt()",
+         "op3":"concat()",
+         "op4":"indexOf()",
+         "answer":"charCodeAt()",
+         "name":"question2"
+     },
+     {
+         "question":" Which of the following function of String object creates an HTML hypertext link that requests another URL?",
+         "op1":"link()",
+         "op2":"sub()",
+         "op3":"sup()",
+         "op4":"small()",
+         "answer":"link()",
+         "name":"question3"
+     },
+     {
+         "question":"Which of the following function of Array object applies a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value?",
+         "op1":"pop()",
+         "op2":"push()",
+         "op3":"reduce()",
+         "op4":"reduceRight()",
+         "answer":"reduce()",
+         "name":"question4"
+     },
+     {
+         "question":"Which of the following function of Array object extracts a section of an array and returns a new array?",
+         "op1":"reverse()",
+         "op2":"shift()",
+         "op3":"slice()",
+         "op4":"some()",
+         "answer":"slice()",
+         "name":"question5"
+     },  
+     {
+        "question":"Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?",
+        "op1":"toExponential()",
+        "op2":"toFixed()",
+        "op3":"toPrecision()",
+        "op4":"toLocalstring()",
+        "answer":"toFixed()",
+        "name":"question6"
+     }
+     ,
+     {
+         "question":"Which of the following function of String object returns a number indicating the Unicode value of the character at the given index?",
+         "op1":"charAt()",
+         "op2":"charCodeAt()",
+         "op3":"concat()",
+         "op4":"indexOf()",
+         "answer":"charCodeAt()",
+         "name":"question7"
+     },
+     {
+         "question":" Which of the following function of String object creates an HTML hypertext link that requests another URL?",
+         "op1":"link()",
+         "op2":"sub()",
+         "op3":"sup()",
+         "op4":"small()",
+         "answer":"link()",
+         "name":"question8"
+        
+     },
+     {
+         "question":"Which of the following function of Array object applies a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value?",
+         "op1":"pop()",
+         "op2":"push()",
+         "op3":"reduce()",
+         "op4":"reduceRight()",
+         "answer":"reduce()",
+         "name":"question9"
+     }, 
+      {
+        "question":"Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?",
+        "op1":"toExponential()",
+        "op2":"toFixed()",
+        "op3":"toPrecision()",
+        "op4":"toLocalstring()",
+        "answer":"toFixed()",
+        "name":"question10"
+     }
+     ,
+     {
+         "question":"Which of the following function of String object returns a number indicating the Unicode value of the character at the given index?",
+         "op1":"charAt()",
+         "op2":"charCodeAt()",
+         "op3":"concat()",
+         "op4":"indexOf()",
+         "answer":"charCodeAt()",
+         "name":"question11"
+     },
+     {
+         "question":" Which of the following function of String object creates an HTML hypertext link that requests another URL?",
+         "op1":"link()",
+         "op2":"sub()",
+         "op3":"sup()",
+         "op4":"small()",
+         "answer":"link()",
+         "name":"question12"
+     },
+     {
+         "question":"Which of the following function of Array object applies a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value?",
+         "op1":"pop()",
+         "op2":"push()",
+         "op3":"reduce()",
+         "op4":"reduceRight()",
+         "answer":"reduce()",
+         "name":"question13"
+     },  {
+        "question":"Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?",
+        "op1":"toExponential()",
+        "op2":"toFixed()",
+        "op3":"toPrecision()",
+        "op4":"toLocalstring()",
+        "answer":"toFixed()",
+        "name":"question14"
+     }
+     ,
+     {
+         "question":"Which of the following function of String object returns a number indicating the Unicode value of the character at the given index?",
+         "op1":"charAt()",
+         "op2":"charCodeAt()",
+         "op3":"concat()",
+         "op4":"indexOf()",
+         "answer":"charCodeAt()",
+         "name":"question15"
+     },
+     {
+         "question":" Which of the following function of String object creates an HTML hypertext link that requests another URL?",
+         "op1":"link()",
+         "op2":"sub()",
+         "op3":"sup()",
+         "op4":"small()",
+         "answer":"link()",
+         "name":"question16"
+     },
+     {
+         "question":"Which of the following function of Array object applies a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value?",
+         "op1":"pop()",
+         "op2":"push()",
+         "op3":"reduce()",
+         "op4":"reduceRight()",
+         "answer":"reduce()",
+         "name":"question17"
+     }, 
+      {
+        "question":"Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?",
+        "op1":"toExponential()",
+        "op2":"toFixed()",
+        "op3":"toPrecision()",
+        "op4":"toLocalstring()",
+        "answer":"toFixed()",
+        "name":"question18"
+     }
+     ,
+     {
+         "question":"Which of the following function of String object returns a number indicating the Unicode value of the character at the given index?",
+         "op1":"charAt()",
+         "op2":"charCodeAt()",
+         "op3":"concat()",
+         "op4":"indexOf()",
+         "answer":"charCodeAt()",
+         "name":"question19"
+     },
+     {
+         "question":" Which of the following function of String object creates an HTML hypertext link that requests another URL?",
+         "op1":"link()",
+         "op2":"sub()",
+         "op3":"sup()",
+         "op4":"small()",
+         "answer":"link()",
+         "name":"question20"
+     },
+     {
+         "question":"Which of the following function of Array object applies a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value?",
+         "op1":"pop()",
+         "op2":"push()",
+         "op3":"reduce()",
+         "op4":"reduceRight()",
+         "answer":"reduce()",
+         "name":"question21"
+     },
+     {
+         "question":"Which of the following function of Array object applies a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value?",
+         "op1":"pop()",
+         "op2":"push()",
+         "op3":"reduce()",
+         "op4":"reduceRight()",
+         "answer":"reduce()",
+         "name":"question22"
+     }, 
+     {
+        "question":"Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?",
+        "op1":"toExponential()",
+        "op2":"toFixed()",
+        "op3":"toPrecision()",
+        "op4":"toLocalstring()",
+        "answer":"toFixed()",
+        "name":"question23"
+     }
+     ,
+     {
+         "question":"Which of the following function of String object returns a number indicating the Unicode value of the character at the given index?",
+         "op1":"charAt()",
+         "op2":"charCodeAt()",
+         "op3":"concat()",
+         "op4":"indexOf()",
+         "answer":"charCodeAt()",
+         "name":"question24"
+     },
+     {
+         "question":" Which of the following function of String object creates an HTML hypertext link that requests another URL?",
+         "op1":"link()",
+         "op2":"sub()",
+         "op3":"sup()",
+         "op4":"small()",
+         "answer":"link()",
+         "name":"question25"
+     },
+     {
+         "question":"Which of the following function of Array object applies a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value?",
+         "op1":"pop()",
+         "op2":"push()",
+         "op3":"reduce()",
+         "op4":"reduceRight()",
+         "answer":"reduce()",
+         "name":"question26"
+     },  {
+        "question":"Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?",
+        "op1":"toExponential()",
+        "op2":"toFixed()",
+        "op3":"toPrecision()",
+        "op4":"toLocalstring()",
+        "answer":"toFixed()",
+        "name":"question27"
+     }
+     ,
+     {
+         "question":"Which of the following function of String object returns a number indicating the Unicode value of the character at the given index?",
+         "op1":"charAt()",
+         "op2":"charCodeAt()",
+         "op3":"concat()",
+         "op4":"indexOf()",
+         "answer":"charCodeAt()",
+         "name":"question28"
+     },
+     {
+         "question":" Which of the following function of String object creates an HTML hypertext link that requests another URL?",
+         "op1":"link()",
+         "op2":"sub()",
+         "op3":"sup()",
+         "op4":"small()",
+         "answer":"link()",
+         "name":"question29"
+     },
+     {
+         "question":" Which of the following function of String object creates an HTML hypertext link that requests another URL?",
+         "op1":"link()",
+         "op2":"sub()",
+         "op3":"sup()",
+         "op4":"small()",
+         "answer":"link()"
+         ,
+         "name":"question30"
+     }
+]

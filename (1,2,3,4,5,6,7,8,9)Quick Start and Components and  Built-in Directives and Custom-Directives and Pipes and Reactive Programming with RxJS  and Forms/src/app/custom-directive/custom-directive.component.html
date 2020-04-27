@@ -1,0 +1,22 @@
+ 
+
+
+<div *ngFor="let data of jokes">
+
+    <div class="card card-block" appFirstdirective >
+      <h4 class="card-title">{{data.setup}}</h4>
+      <p class="card-text"
+         [hidden]="hide">{{data.punchline}}</p>
+      <button (click)="toggle()"
+         class="btn btn-primary" style="width: 150px;">Tell Me
+      </button>
+    
+    </div>
+    
+    </div>
+    
+    <div *ngFor="let data of jokes" >
+    <div  class="card card-block" style="margin-top: 50px;" >
+      <h4 (mouseover)="mouseover()" (mouseout)="mouseout()" class="card-title">{{data.setup}}</h4>
+      <p class="card-text" [hidden]="hover">{{data.punchline}}</p>
+    </div>
